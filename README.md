@@ -15,6 +15,11 @@ Sistema GIS open source para gestão territorial das microáreas da APS
 
 **Stack:** React · TypeScript · NestJS · Prisma · PostgreSQL/PostGIS · Docker
 
+### [Painel UBS Planifica](https://github.com/ymedeiros228/painel-ubs-planifica)
+App desktop (Electron) para registro e monitoramento das ações das UBS no **PlanificaSUS** (Passagem Franca/MA).
+
+**Stack:** Electron · JavaScript · HTML/CSS · Windows portable
+
 ### Outros projetos
 | Projeto | Sobre |
 |--------|--------|
@@ -27,7 +32,7 @@ Sistema GIS open source para gestão territorial das microáreas da APS
 
 ## Stack que uso com frequência
 
-`TypeScript` `React` `NestJS` `Node.js` `PostgreSQL` `Prisma` `Docker` `n8n` `Git`
+`TypeScript` `React` `NestJS` `Node.js` `PostgreSQL` `Prisma` `Docker` `Electron` `n8n` `Git`
 
 ---
 
