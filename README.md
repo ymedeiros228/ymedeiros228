@@ -9,11 +9,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yuri-medeiros-1071533b4/">LinkedIn</a>
   ·
-  <a href="https://github.com/ymedeiros228">GitHub</a>
+  <a href="https://sigaps-api.onrender.com">Demo SIGAPS</a>
   ·
-  <a href="https://github.com/ymedeiros228/sigaps">SIGAPS (demo)</a>
-  ·
-  <a href="https://github.com/ymedeiros228/painel-ubs-planifica/releases/tag/v3.1.1">Painel UBS (download)</a>
+  <a href="https://github.com/ymedeiros228/painel-ubs-planifica/releases/latest">Painel UBS (Windows)</a>
 </p>
 
 <p align="center">
@@ -30,59 +28,45 @@
 
 ## O que eu entrego
 
-Sistemas full-stack para **APS / prefeitura**: mapa territorial, painéis operacionais e automação — com **deploy, documentação e caminho de uso real**, não só CRUD de curso.
+Sistemas full-stack para **APS / prefeitura**: mapa territorial, painéis operacionais e automação — com **deploy, documentação e uso real**, não só CRUD de curso.
 
-## Projetos em destaque (fixe estes no perfil)
+## Projetos em destaque
 
 ### 1. [SIGAPS](https://github.com/ymedeiros228/sigaps) · [demo ao vivo](https://sigaps-api.onrender.com)
 
-GIS open source para **microáreas da APS** (ACS, UBS, mapas, cobertura, multi-município).  
-Stack: `React` · `NestJS` · `Prisma` · `PostgreSQL/PostGIS` · `Docker` · `PWA` · MIT
+GIS open source para **microáreas da APS** (ACS, UBS, mapas, cobertura, multi-município).
 
-[Repo](https://github.com/ymedeiros228/sigaps) · [Demo](https://sigaps-api.onrender.com) · [Health](https://sigaps-api.onrender.com/health)
+`React` · `NestJS` · `Prisma` · `PostgreSQL/PostGIS` · `Docker` · `PWA` · MIT · [CI](https://github.com/ymedeiros228/sigaps/actions)
 
-### 2. [Painel UBS Planifica](https://github.com/ymedeiros228/painel-ubs-planifica) · [download Windows](https://github.com/ymedeiros228/painel-ubs-planifica/releases/tag/v3.1.1)
+### 2. [Painel UBS Planifica](https://github.com/ymedeiros228/painel-ubs-planifica) · [download Windows](https://github.com/ymedeiros228/painel-ubs-planifica/releases/latest)
 
-App **desktop** (Electron) para registrar e acompanhar ações das UBS no **PlanificaSUS** — offline, portable Windows, export CSV + backup JSON.  
-Stack: `Electron` · `JavaScript` · `HTML/CSS`
+App **desktop Electron** para registrar e acompanhar ações das UBS no **PlanificaSUS** — offline, portable, export CSV + backup JSON.
 
-[Repo](https://github.com/ymedeiros228/painel-ubs-planifica) · [Release v3.1.1](https://github.com/ymedeiros228/painel-ubs-planifica/releases/tag/v3.1.1)
+`Electron` · `JavaScript` · `HTML/CSS`
 
 ### 3. [Movie Explorer](https://github.com/ymedeiros228/movie-explorer)
 
-Catálogo de filmes em React + TypeScript (Vite, rotas, Context API, TMDB opcional).  
-Trabalho de disciplina — front limpo e fácil de clonar.
+Catálogo de filmes em React + TypeScript (Vite, rotas, Context API, TMDB opcional).
 
-[Repo](https://github.com/ymedeiros228/movie-explorer)
+`React` · `TypeScript` · `Vite`
 
-### Outros
+### Também
 
 | Projeto | Sobre |
 |--------|--------|
-| [Chatbot CS + IA](https://github.com/ymedeiros228/chatbot-ia-n8n-customer-success) | n8n + Sheets + IA (desafio CS) |
-| [Universe Database](https://github.com/ymedeiros228/universe-database) | PostgreSQL — freeCodeCamp |
-| [E-commerce Byte & Box](https://github.com/ymedeiros228/ecommerce-eletronicos) | Front React/Vite (localStorage) |
+| [Chatbot CS + IA](https://github.com/ymedeiros228/chatbot-ia-n8n-customer-success) | n8n + Sheets + IA (Customer Success) |
+| [E-commerce Byte & Box](https://github.com/ymedeiros228/ecommerce-eletronicos) | Front React/Vite (carrinho + checkout local) |
 
 ---
 
 ## Como trabalho
 
-- Priorizo **problema real** (saúde pública / APS), docs e deploy
-- Uso **IA como copiloto** — domínio, revisão e responsabilidade da entrega ficam comigo
+- Priorizo **problema real** (saúde pública / APS), documentação e deploy
+- Uso IA como **copiloto** — responsabilidade da entrega fica comigo
 - Busco **estágio ou júnior full-stack** (React, NestJS, PostgreSQL, GIS)
 
 ## Contato
 
 - LinkedIn: [yuri-medeiros](https://www.linkedin.com/in/yuri-medeiros-1071533b4/)
 - GitHub: [ymedeiros228](https://github.com/ymedeiros228)
-- Contribuição OSS recente: [closed-wikilink helper no Nothe (#45)](https://github.com/7Cass/nothe/pull/45)
-
----
-
-<p align="center">
-  <sub>
-    Pins já configurados: <b>sigaps</b> · <b>painel-ubs-planifica</b> · <b>movie-explorer</b>.
-    Marque <a href="https://github.com/settings/profile"><b>Available for hire</b></a> se buscar estágio ·
-    closeout: <a href="./CLOSEOUT_GITHUB_10.md">checklist final</a>
-  </sub>
-</p>
+- OSS: [PR no Nothe (#45)](https://github.com/7Cass/nothe/pull/45)
