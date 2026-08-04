@@ -1,23 +1,19 @@
-# Pins e Available for hire (Sprint A — Fase 2)
+# Pins e Available for hire
 
-A API do token atual **não** consegue pin/hireable (`user` scope ausente; mutation de pin não exposta). Faça no browser (2 min).
+## Pins (já confetados via API — 2026-08)
 
-## Estado verificado pela API
+1. `sigaps`
+2. `painel-ubs-planifica`
+3. `movie-explorer`
 
-- Pins atuais: `sigaps`, `painel-ubs-planifica`
-- Falta pin: **`movie-explorer`**
-- `hireable`: ainda não marcado
+Se o perfil não mostrar os 3: **Customize your pins** e fixe nessa ordem.
 
-## Passos
+## Available for hire (só browser)
 
-1. Abra https://github.com/ymedeiros228
-2. **Customize your pins** → fixe **somente** nesta ordem:
-   1. `sigaps`
-   2. `painel-ubs-planifica`
-   3. `movie-explorer`
-3. https://github.com/settings/profile → marque **Available for hire**
-4. Confira bio (full-stack + saúde/GIS) alinhada ao README deste repo
+Token atual **não** tem scope `user` → agent não marca hireable.
 
-## Critério de aceite
+1. https://github.com/settings/profile  
+2. Marque **Available for hire**  
+3. Save / Update profile  
 
-First screen do perfil = 3 projetos âncora + disponibilidade para estágio/júnior.
+Detalhe do fechamento: [CLOSEOUT_GITHUB_10.md](./CLOSEOUT_GITHUB_10.md)
