@@ -46,13 +46,13 @@ ACS · UBS · mapas · indicadores · PWA
 </td>
 <td width="50%" valign="top">
 
-#### [Painel UBS Planifica](https://github.com/ymedeiros228/painel-ubs-planifica)
+#### [Painel UBS Planifica](https://github.com/ymedeiros228/painel-ubs-planifica) · [**download Windows**](https://github.com/ymedeiros228/painel-ubs-planifica/releases/tag/v3.0.1)
 Desktop **PlanificaSUS** para ações das UBS  
 Dashboard · filtros · CSV · Windows portable
 
 `Electron` `JavaScript` `HTML`
 
-[Repo](https://github.com/ymedeiros228/painel-ubs-planifica)
+[Repo](https://github.com/ymedeiros228/painel-ubs-planifica) · [Download](https://github.com/ymedeiros228/painel-ubs-planifica/releases/tag/v3.0.1)
 
 </td>
 </tr>
