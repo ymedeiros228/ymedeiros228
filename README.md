@@ -81,8 +81,8 @@ Trabalho de disciplina — front limpo e fácil de clonar.
 
 <p align="center">
   <sub>
-    No GitHub: Profile → Customize your pins → fixe
-    <b>sigaps</b>, <b>painel-ubs-planifica</b> e <b>movie-explorer</b>.
-    Em Public profile → marque <b>Available for hire</b> se estiver buscando vaga.
+    Pins já configurados: <b>sigaps</b> · <b>painel-ubs-planifica</b> · <b>movie-explorer</b>.
+    Marque <a href="https://github.com/settings/profile"><b>Available for hire</b></a> se buscar estágio ·
+    closeout: <a href="./CLOSEOUT_GITHUB_10.md">checklist final</a>
   </sub>
 </p>
