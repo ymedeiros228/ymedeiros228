@@ -75,6 +75,7 @@ Trabalho de disciplina — front limpo e fácil de clonar.
 
 - LinkedIn: [yuri-medeiros](https://www.linkedin.com/in/yuri-medeiros-1071533b4/)
 - GitHub: [ymedeiros228](https://github.com/ymedeiros228)
+- Contribuição OSS recente: [closed-wikilink helper no Nothe (#45)](https://github.com/7Cass/nothe/pull/45)
 
 ---
 
