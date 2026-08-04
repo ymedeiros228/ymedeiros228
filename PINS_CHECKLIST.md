@@ -1,14 +1,23 @@
-# Pins e perfil (checklist manual no GitHub)
+# Pins e Available for hire (Sprint A — Fase 2)
 
-Faça uma vez no navegador (a API do token atual não altera hireable/pins):
+A API do token atual **não** consegue pin/hireable (`user` scope ausente; mutation de pin não exposta). Faça no browser (2 min).
+
+## Estado verificado pela API
+
+- Pins atuais: `sigaps`, `painel-ubs-planifica`
+- Falta pin: **`movie-explorer`**
+- `hireable`: ainda não marcado
+
+## Passos
 
 1. Abra https://github.com/ymedeiros228
-2. Clique em **Customize your pins**
-3. Fixe **somente** (nesta ordem):
-   - `sigaps`
-   - `painel-ubs-planifica`
-   - `movie-explorer`
-4. Settings → Public profile → marque **Available for hire** (se busar estágio)
-5. Confira se a bio bate com o README deste repo
+2. **Customize your pins** → fixe **somente** nesta ordem:
+   1. `sigaps`
+   2. `painel-ubs-planifica`
+   3. `movie-explorer`
+3. https://github.com/settings/profile → marque **Available for hire**
+4. Confira bio (full-stack + saúde/GIS) alinhada ao README deste repo
 
-Não commite este arquivo se preferir — é só checklist. Remover do repo depois de executar é ok.
+## Critério de aceite
+
+First screen do perfil = 3 projetos âncora + disponibilidade para estágio/júnior.
