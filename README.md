@@ -30,9 +30,11 @@ App desktop (Electron) para registro e monitoramento das ações das UBS no **Pl
 
 ---
 
-## Stack que uso com frequência
+## Como trabalho
 
-`TypeScript` `React` `NestJS` `Node.js` `PostgreSQL` `Prisma` `Docker` `Electron` `n8n` `Git`
+- Priorizo **problemas reais** (APS / prefeitura), com documentação e caminho de deploy
+- Uso **IA como copiloto** e mantenho revisão, testes e domínio do produto comigo
+- Stack principal: `TypeScript` `React` `NestJS` `PostgreSQL` `Prisma` `Docker` `Electron` `n8n`
 
 ---
 
