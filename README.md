@@ -1,6 +1,6 @@
 <img src="assets/v3/banner.webp" width="100%" alt="Yuri Medeiros, desenvolvedor full-stack. SIGAPS, Portal Prefeituras, AgroNexus, MathHub e Harpia rodando em notebook e celular" />
 
-<img src="assets/v3/sobre.png" width="100%" alt="Construo software do levantamento ao deploy. Sistemas web, mobile e desktop para saúde, governo, agro e educação. Dois foram entregues sob contrato ao setor público de Passagem Franca (MA), com termo de aceite, e o Painel UBS está em uso nas unidades de saúde. Aberto a vaga júnior remota e a projetos freelance." />
+<img src="assets/v3/sobre-2.png" width="100%" alt="Transformo problemas reais em produtos que funcionam. Sou desenvolvedor full-stack e cuido do ciclo inteiro: entendo a necessidade, desenho a solução e coloco o sistema no ar, documentado e pronto para usar. Já construí para saúde, governo, agro, educação e segurança, na web, no celular e no desktop. Disponível para vaga júnior remota e projetos freelance." />
 
 <a href="https://www.linkedin.com/in/yuri-medeiros-1071533b4/"><img src="assets/v3/btn-linkedin.png" height="46" alt="LinkedIn" /></a>&nbsp;
 <a href="https://portfolio-universo-yuri.vercel.app"><img src="assets/v3/btn-portfolio.png" height="46" alt="Portfólio" /></a>
