@@ -1,72 +1,116 @@
-# Yuri Medeiros
-
+<!-- Cabeçalho animado (onda) -->
 <p align="center">
-  <strong>Ciência da Computação · 6º período · UNINASSAU</strong><br/>
-  Full-stack (React / NestJS) · Saúde pública · GIS · Automação com IA<br/>
-  Teresina, PI — Brasil · Aberto a <strong>estágio / full-stack júnior</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4c1d95,100:2563eb&height=200&section=header&text=Yuri%20Medeiros&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20GIS%20%C2%B7%20Automa%C3%A7%C3%A3o%20com%20IA&descAlignY=58&descSize=18&animation=fadeIn" alt="Yuri Medeiros" />
+</p>
+
+<!-- Texto digitando -->
+<p align="center">
+  <a href="https://github.com/ymedeiros228">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=640&lines=Sistemas+em+produ%C3%A7%C3%A3o+na+sa%C3%BAde+p%C3%BAblica;Mapas+(GIS)+com+PostGIS+e+MapLibre;Apps+que+funcionam+sem+internet+(PWA%2C+Electron);Automa%C3%A7%C3%B5es+com+n8n%2C+APIs+e+IA;Do+requisito+ao+deploy%2C+com+documenta%C3%A7%C3%A3o" alt="Digitando" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yuri-medeiros-1071533b4/">LinkedIn</a>
-  ·
-  <a href="https://sigaps-api.onrender.com">Demo SIGAPS</a>
-  ·
-  <a href="https://github.com/ymedeiros228/painel-ubs-planifica/releases/latest">Painel UBS (Windows)</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/PostGIS-116149?style=flat&logo=postgresql&logoColor=white" alt="PostGIS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" alt="Electron" />
+  <a href="https://www.linkedin.com/in/yuri-medeiros-1071533b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://sigaps-api.onrender.com"><img src="https://img.shields.io/badge/Demo_SIGAPS-16a34a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Demo SIGAPS" /></a>
+  <a href="https://github.com/ymedeiros228/painel-ubs-planifica/releases/latest"><img src="https://img.shields.io/badge/Painel_UBS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Painel UBS" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ymedeiros228&style=for-the-badge&color=4c1d95&label=VISITAS" alt="Visitas" />
 </p>
 
 ---
 
-## O que eu entrego
+## 👨‍💻 Sobre mim
 
-Sistemas full-stack para **APS / prefeitura**: mapa territorial, painéis operacionais e automação — com **deploy, documentação e uso real**, não só CRUD de curso.
+- 🎓 Ciência da Computação (6º período) · Técnico em Redes · Teresina, PI
+- 🏥 Entrego sistemas **em uso real** na saúde pública (APS / PlanificaSUS)
+- 🗺️ Gosto de mapas: GIS com **PostGIS**, contornos por GPS, KML e coordenadas UTM
+- 🤖 Uso IA como copiloto — a regra de negócio e a responsabilidade pela entrega são minhas
+- 💼 Aberto a **vaga júnior / estágio remoto** e a **projetos freelance**
 
-## Projetos em destaque
+## 🛠️ Stack
 
-### 1. [SIGAPS](https://github.com/ymedeiros228/sigaps) · [demo ao vivo](https://sigaps-api.onrender.com)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,nestjs,prisma,postgres,supabase,tailwind,docker,electron,flutter,githubactions,linux&perline=8" alt="Stack" />
+  </a>
+</p>
 
-GIS open source para **microáreas da APS** (ACS, UBS, mapas, cobertura, multi-município).
+## 🚀 Projetos em destaque
 
-`React` · `NestJS` · `Prisma` · `PostgreSQL/PostGIS` · `Docker` · `PWA` · MIT · [CI](https://github.com/ymedeiros228/sigaps/actions)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗺️ <a href="https://github.com/ymedeiros228/sigaps">SIGAPS</a></h3>
+      GIS para as microáreas da Atenção Primária à Saúde: mapa, cobertura, vários municípios no mesmo sistema, LGPD.<br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostGIS-336791?logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /><br/>
+      <a href="https://sigaps-api.onrender.com">▶ Demo ao vivo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 <a href="https://github.com/ymedeiros228/painel-ubs-planifica">Painel UBS Planifica</a></h3>
+      App desktop <b>em uso nas UBS</b> de Passagem Franca/MA: plano de ações, dashboard, pendências, funciona sem internet.<br/><br/>
+      <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /><br/>
+      <a href="https://github.com/ymedeiros228/painel-ubs-planifica/releases/latest">⬇ Baixar para Windows</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 <a href="https://github.com/ymedeiros228/agronexus">AgroNexus</a></h3>
+      PWA local-first para agrônomos e produtores: visitas, talhões no mapa (GPS/KML/UTM), estande, insumos e financeiro da safra. 173 testes.<br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Dexie-IndexedDB-orange" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📐 <a href="https://github.com/ymedeiros228/mathhub-plataforma">MathHub</a></h3>
+      Plataforma de cursos de matemática com áreas de aluno, professor e admin, assinatura, simulados e dúvidas.<br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌳 <a href="https://github.com/ymedeiros228/verde-urbano">Verde Urbano</a></h3>
+      Mapeamento da arborização urbana de Teresina (projeto de extensão).<br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MapLibre-396CB2?logo=maplibre&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ Portal Prefeituras <sub>(código privado)</sub></h3>
+      Site, portal da transparência (PNTP) e painel administrativo para prefeituras e câmaras pequenas.<br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/274_commits-4c1d95" />
+    </td>
+  </tr>
+</table>
 
-### 2. [Painel UBS Planifica](https://github.com/ymedeiros228/painel-ubs-planifica) · [download Windows](https://github.com/ymedeiros228/painel-ubs-planifica/releases/latest)
-
-App **desktop Electron** para registrar e acompanhar ações das UBS no **PlanificaSUS** — offline, portable, export CSV + backup JSON.
-
-`Electron` · `JavaScript` · `HTML/CSS`
-
-### 3. [Movie Explorer](https://github.com/ymedeiros228/movie-explorer)
-
-Catálogo de filmes em React + TypeScript (Vite, rotas, Context API, TMDB opcional).
-
-`React` · `TypeScript` · `Vite`
-
-### Também
+<details>
+<summary><b>Mais projetos</b></summary>
 
 | Projeto | Sobre |
-|--------|--------|
-| [Chatbot CS + IA](https://github.com/ymedeiros228/chatbot-ia-n8n-customer-success) | n8n + Sheets + IA (Customer Success) |
-| [E-commerce Byte & Box](https://github.com/ymedeiros228/ecommerce-eletronicos) | Front React/Vite (carrinho + checkout local) |
+|---|---|
+| [Chatbot CS + IA](https://github.com/ymedeiros228/chatbot-ia-n8n-customer-success) | Atendimento com n8n, Google Sheets e IA |
+| [Ensemble](https://github.com/ymedeiros228/ensemble) | App para estudantes: estudos, agenda, finanças e bem-estar |
+| [Movie Explorer](https://github.com/ymedeiros228/movie-explorer) | Catálogo de filmes com React, TypeScript e TMDB |
+| [Byte & Box](https://github.com/ymedeiros228/ecommerce-eletronicos) | E-commerce front-end com carrinho e checkout |
+| [Portfolio Universe](https://github.com/ymedeiros228/portfolio-universo-yuri) | Portfólio com galáxia em Three.js |
+| [Contribuição OSS](https://github.com/7Cass/nothe/pull/45) | PR no Nothe, app de notas em Rust |
 
----
+</details>
 
-## Como trabalho
+## 📊 Atividade
 
-- Priorizo **problema real** (saúde pública / APS), documentação e deploy
-- Uso IA como **copiloto** — responsabilidade da entrega fica comigo
-- Busco **estágio ou júnior full-stack** (React, NestJS, PostgreSQL, GIS)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ymedeiros228&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas" />
+  <img height="165" src="https://streak-stats.demolab.com?user=ymedeiros228&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência" />
+</p>
 
-## Contato
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ymedeiros228&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" />
+</p>
 
-- LinkedIn: [yuri-medeiros](https://www.linkedin.com/in/yuri-medeiros-1071533b4/)
-- GitHub: [ymedeiros228](https://github.com/ymedeiros228)
-- OSS: [PR no Nothe (#45)](https://github.com/7Cass/nothe/pull/45)
+<!-- Cobrinha comendo as contribuições (gerada pela Action .github/workflows/snake.yml) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ymedeiros228/ymedeiros228/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/ymedeiros228/ymedeiros228/output/github-snake.svg" alt="Cobrinha das contribuições" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:4c1d95,100:0f172a&height=100&section=footer" />
+</p>
