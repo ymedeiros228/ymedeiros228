@@ -1,4 +1,4 @@
-<img src="assets/v2/banner.png" width="100%" alt="Yuri Medeiros: produtos que funcionam de verdade" />
+<img src="assets/v2/banner-animado.webp" width="100%" alt="Yuri Medeiros: produtos que funcionam de verdade. SIGAPS, Portal Prefeituras, AgroNexus, MathHub e Harpia rodando em notebook e celular" />
 
 <img src="assets/v2/areas.png" width="100%" alt="Áreas: saúde pública, governo, agro, educação, IA e automação, web, desktop e mobile" />
 
