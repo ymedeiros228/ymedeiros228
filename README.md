@@ -15,7 +15,7 @@
 <a href="https://github.com/ymedeiros228/mathhub-plataforma"><img src="assets/v2/real-mathhub.png" width="49%" alt="MathHub: plataforma de cursos com áreas de aluno, professor e admin" /></a>
 <img src="assets/v2/real-portal.png" width="49%" alt="Portal Prefeituras: site e portal da transparência para prefeituras pequenas" />
 <a href="https://github.com/ymedeiros228/painel-ubs-planifica"><img src="assets/v2/real-painel.png" width="49%" alt="Painel UBS: app desktop em uso nas Unidades Básicas de Saúde" /></a>
-<img src="assets/v2/real-criador.png" width="49%" alt="Criador de Vídeos: gera vídeos curtos com roteiro, voz e edição automáticos" />
+<a href="https://ensemble-chi-one.vercel.app"><img src="assets/v2/real-ensemble.png" width="49%" alt="Ensemble: app para estudantes com estudos, agenda, finanças e bem-estar" /></a>
 
 <br/>
 
