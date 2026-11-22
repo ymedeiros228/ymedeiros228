@@ -9,10 +9,10 @@
 
 <a href="https://github.com/ymedeiros228/sigaps"><img src="assets/v3/card-sigaps.png" width="49%" alt="SIGAPS: mapa das microáreas da Atenção Primária, entregue sob contrato à Prefeitura de Passagem Franca (MA)" /></a>
 <a href="https://github.com/ymedeiros228/agronexus"><img src="assets/v3/card-agronexus.png" width="49%" alt="AgroNexus: app de campo para agrônomos que funciona sem internet" /></a>
-<a href="https://github.com/ymedeiros228/mathhub-plataforma"><img src="assets/v3/card-mathhub-2.png" width="49%" alt="MathHub: plataforma de cursos com assinatura, simulados e áreas de aluno, professor e admin" /></a>
-<img src="assets/v3/card-portal.png" width="49%" alt="Portal Prefeituras: site e portal da transparência no padrão PNTP" />
-<a href="https://github.com/ymedeiros228/painel-ubs-planifica"><img src="assets/v3/card-painel.png" width="49%" alt="Painel UBS: app desktop em uso nas UBS de Passagem Franca (MA)" /></a>
-<img src="assets/v3/card-harpia.png" width="49%" alt="Harpia: ferramenta de pentest com painel ao vivo, sandbox e trava de alvos" />
+<a href="https://github.com/ymedeiros228/mathhub-vitrine"><img src="assets/v3/card-mathhub-2.png" width="49%" alt="MathHub: plataforma de cursos com assinatura, simulados e áreas de aluno, professor e admin" /></a>
+<a href="https://github.com/ymedeiros228/portal-prefeituras-vitrine"><img src="assets/v3/card-portal.png" width="49%" alt="Portal Prefeituras: site e portal da transparência no padrão PNTP" /></a>
+<a href="https://github.com/ymedeiros228/verde-urbano"><img src="assets/v3/card-verde.png" width="49%" alt="Verde Urbano: mapa de calor de Teresina por satélite que mostra onde falta árvore" /></a>
+<a href="https://github.com/ymedeiros228/harpia-vitrine"><img src="assets/v3/card-harpia.png" width="49%" alt="Harpia: ferramenta de pentest com painel ao vivo, sandbox e trava de alvos" /></a>
 
 <img src="assets/v3/stack-2.png" width="100%" alt="Stack: TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, Supabase, Docker, Electron, Flutter, Python, Linux" />
 
