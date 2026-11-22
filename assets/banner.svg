@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Yuri Medeiros, desenvolvedor full-stack">
+  <defs>
+    <!-- grade de mapa ao fundo -->
+    <pattern id="grade" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1b2733" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="luz" cx="78%" cy="45%" r="60%">
+      <stop offset="0" stop-color="#1f6feb" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rota" x1="0" x2="1">
+      <stop offset="0" stop-color="#2ea043"/>
+      <stop offset="1" stop-color="#58a6ff"/>
+    </linearGradient>
+    <style>
+      .nome { font: 700 64px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #e6edf3; letter-spacing: -1px; }
+      .papel { font: 500 22px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8b949e; }
+      .cmd { font: 500 16px Consolas, 'Courier New', monospace; fill: #58a6ff; }
+      .rua { fill: none; stroke: #263443; stroke-width: 3; stroke-linecap: round; }
+      .trajeto { fill: none; stroke: url(#rota); stroke-width: 4; stroke-linecap: round;
+                 stroke-dasharray: 900; stroke-dashoffset: 900; animation: desenha 4.5s ease-in-out infinite; }
+      .area { fill: #2ea043; fill-opacity: .10; stroke: #2ea043; stroke-opacity: .55; stroke-width: 2;
+              animation: aparece 4.5s ease-in-out infinite; }
+      .pino { fill: #58a6ff; }
+      .onda { fill: none; stroke: #58a6ff; stroke-width: 2; transform-box: fill-box; transform-origin: center;
+              animation: pulsa 2.2s ease-out infinite; }
+      .o2 { animation-delay: .7s; } .o3 { animation-delay: 1.4s; }
+      .cursor { animation: pisca 1s steps(1) infinite; }
+      .entra { opacity: 0; animation: sobe .9s ease-out forwards; }
+      .e2 { animation-delay: .25s; } .e3 { animation-delay: .5s; }
+      @keyframes desenha { 0% { stroke-dashoffset: 900; } 55%, 85% { stroke-dashoffset: 0; } 100% { stroke-dashoffset: -900; } }
+      @keyframes aparece { 0%, 35% { opacity: 0; } 55%, 85% { opacity: 1; } 100% { opacity: 0; } }
+      @keyframes pulsa { 0% { transform: scale(.4); opacity: .9; } 100% { transform: scale(2.6); opacity: 0; } }
+      @keyframes pisca { 50% { opacity: 0; } }
+      @keyframes sobe { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+      @media (prefers-reduced-motion: reduce) {
+        .trajeto { animation: none; stroke-dashoffset: 0; } .area { animation: none; opacity: 1; }
+        .onda, .cursor, .entra { animation: none; opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" rx="14" fill="#0d1117"/>
+  <rect width="1200" height="320" rx="14" fill="url(#grade)"/>
+  <rect width="1200" height="320" rx="14" fill="url(#luz)"/>
+
+  <!-- "mapa" à direita: ruas, uma área pintada, um trajeto e pinos -->
+  <g transform="translate(700 30)">
+    <path class="rua" d="M0 60 C90 40 160 90 250 70 S400 30 470 60"/>
+    <path class="rua" d="M30 200 C120 170 210 230 300 200 S420 150 480 190"/>
+    <path class="rua" d="M120 0 C140 90 100 170 150 260"/>
+    <path class="rua" d="M330 0 C300 80 360 160 320 260"/>
+    <path class="area" d="M150 75 L300 68 L318 196 L170 214 Z"/>
+    <path class="trajeto" d="M20 230 C90 210 120 150 160 130 S260 120 300 90 S400 60 450 40"/>
+    <g transform="translate(160 130)"><circle class="pino" r="6"/><circle class="onda" r="6"/></g>
+    <g transform="translate(300 90)"><circle class="pino" r="6"/><circle class="onda o2" r="6"/></g>
+    <g transform="translate(450 40)"><circle class="pino" r="6" fill="#2ea043"/><circle class="onda o3" r="6"/></g>
+  </g>
+
+  <!-- texto à esquerda -->
+  <text class="cmd entra" x="64" y="104">~/yuri $ whoami<tspan class="cursor">▍</tspan></text>
+  <text class="nome entra e2" x="60" y="180">Yuri Medeiros</text>
+  <text class="papel entra e3" x="64" y="222">Full-stack · mapas (GIS) · apps offline · automação</text>
+  <text class="papel entra e3" x="64" y="256" style="font-size:18px;fill:#6e7681">Teresina, PI · sistemas em uso na saúde pública</text>
+</svg>
