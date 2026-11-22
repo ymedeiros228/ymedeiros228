@@ -100,7 +100,19 @@
 </p>
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymedeiros228&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ymedeiros228&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ymedeiros228&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Troféus" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ymedeiros228/ymedeiros228/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contribuições em 3D" />
 </p>
 
 <!-- Cobrinha comendo as contribuições (gerada pela Action .github/workflows/snake.yml) -->
