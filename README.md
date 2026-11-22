@@ -1,4 +1,4 @@
-<img src="assets/v2/banner-animado.webp" width="100%" alt="Yuri Medeiros: produtos que funcionam de verdade. SIGAPS, Portal Prefeituras, AgroNexus, MathHub e Harpia rodando em notebook e celular" />
+<img src="assets/v2/banner-animado-2.webp" width="100%" alt="Yuri Medeiros: produtos que funcionam de verdade. SIGAPS, Portal Prefeituras, AgroNexus, MathHub e Harpia rodando em notebook e celular" />
 
 <img src="assets/v2/areas.png" width="100%" alt="Áreas: saúde pública, governo, agro, educação, IA e automação, web, desktop e mobile" />
 
@@ -15,7 +15,7 @@
 <a href="https://github.com/ymedeiros228/mathhub-plataforma"><img src="assets/v2/real-mathhub.png" width="49%" alt="MathHub: plataforma de cursos com áreas de aluno, professor e admin" /></a>
 <img src="assets/v2/real-portal.png" width="49%" alt="Portal Prefeituras: site e portal da transparência para prefeituras pequenas" />
 <a href="https://github.com/ymedeiros228/painel-ubs-planifica"><img src="assets/v2/real-painel.png" width="49%" alt="Painel UBS: app desktop em uso nas Unidades Básicas de Saúde" /></a>
-<img src="assets/v2/real-harpia.png" width="49%" alt="Harpia: ferramenta de pentest com painel ao vivo e trava de alvos" />
+<img src="assets/v2/real-harpia-2.png" width="49%" alt="Harpia: ferramenta de pentest com painel ao vivo e trava de alvos" />
 
 <br/>
 
