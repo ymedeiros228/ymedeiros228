@@ -108,10 +108,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ymedeiros228&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Troféus" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/ymedeiros228/ymedeiros228/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contribuições em 3D" />
 </p>
 
