@@ -1,87 +1,31 @@
-<img src="assets/banner.svg" width="100%" alt="Yuri Medeiros: full-stack, mapas (GIS), apps offline e automação" />
+<img src="assets/v2/banner.png" width="100%" alt="Yuri Medeiros: produtos que funcionam de verdade" />
 
-<p>
-  <a href="https://www.linkedin.com/in/yuri-medeiros-1071533b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://sigaps-api.onrender.com"><img src="https://img.shields.io/badge/demo-SIGAPS-238636?style=flat-square" alt="Demo SIGAPS" /></a>
-  <a href="https://github.com/ymedeiros228/painel-ubs-planifica/releases/latest"><img src="https://img.shields.io/badge/download-Painel%20UBS-30363d?style=flat-square&logo=windows&logoColor=white" alt="Painel UBS" /></a>
-</p>
+<img src="assets/v2/areas.png" width="100%" alt="Áreas: saúde pública, governo, agro, educação, IA e automação, web, desktop e mobile" />
 
-Sou o Yuri, estou no 6º período de Ciência da Computação e trabalho com TI. Nos últimos dois anos
-entreguei sistemas que estão rodando de verdade: um mapa das microáreas de saúde para uma prefeitura
-do Maranhão e um painel que as UBS de lá usam no dia a dia para acompanhar o plano de ações.
+<img src="assets/v2/intro.png" width="78%" alt="Sou o Yuri, de Teresina (PI). Crio sistemas completos, do levantamento ao deploy, para saúde, governo, agro e educação. Aberto a vaga júnior remota e a projetos freelance." />
 
-Gosto de problema concreto: mapa com PostGIS, app que precisa funcionar sem internet no interior,
-automação que tira trabalho repetido de alguém. Uso IA no dia a dia, mas quem responde pela regra
-de negócio e pela entrega sou eu.
-
-Estou aberto a **vaga júnior ou estágio remoto** e pego **projetos freelance**.
-
-<br/>
-
-## Trabalhos
-
-### [SIGAPS](https://github.com/ymedeiros228/sigaps) &nbsp;·&nbsp; gestão territorial da Atenção Primária
-
-A equipe da prefeitura "pinta" no mapa as ruas de cada agente de saúde e vê na hora a cobertura
-do município. Atende vários municípios no mesmo sistema com os dados separados, login por perfil e
-dados pessoais mascarados.
-
-<p>
-  <img src="assets/sigaps-mapa.jpg" width="49%" alt="SIGAPS: mapa das microáreas" />
-  <img src="assets/sigaps-dashboard.jpg" width="49%" alt="SIGAPS: dashboard" />
-</p>
-
-`React` `NestJS` `Prisma` `PostgreSQL/PostGIS` `Docker` `GitHub Actions` &nbsp;·&nbsp; [demo ao vivo](https://sigaps-api.onrender.com)
-
-### [Painel UBS Planifica](https://github.com/ymedeiros228/painel-ubs-planifica) &nbsp;·&nbsp; em uso nas UBS de Passagem Franca/MA
-
-App de Windows para o PlanificaSUS: cadastro das ações de cada UBS, painel com o que está atrasado
-e backup automático. Roda sem internet e sem instalar, porque nem todo posto tem rede boa.
-
-<img src="assets/painel-dashboard.jpg" width="70%" alt="Painel UBS: dashboard" />
-
-`Electron` `JavaScript` &nbsp;·&nbsp; [baixar](https://github.com/ymedeiros228/painel-ubs-planifica/releases/latest)
-
-### [AgroNexus](https://github.com/ymedeiros228/agronexus) &nbsp;·&nbsp; app de campo para agrônomos
-
-Visita técnica, contagem de estande, talhão desenhado com GPS ou importado de KML, insumos e
-financeiro da safra. Funciona offline e sincroniza quando o sinal volta. 173 testes.
-
-`Next.js` `Dexie (IndexedDB)` `Supabase` `PWA`
-
-### [MathHub](https://github.com/ymedeiros228/mathhub-plataforma) &nbsp;·&nbsp; plataforma de cursos
-
-Áreas de aluno, professor e admin, assinatura, simulados e fila de dúvidas.
-
-`Next.js` `TypeScript` `Prisma` `PostgreSQL`
-
-<details>
-<summary>outros projetos</summary>
-<br/>
-
-- [Verde Urbano](https://github.com/ymedeiros228/verde-urbano): mapeamento da arborização de Teresina (Next.js, MapLibre, Supabase)
-- **Portal Prefeituras** (código privado): site, transparência no padrão PNTP e painel admin para prefeituras pequenas
-- [Chatbot de atendimento](https://github.com/ymedeiros228/chatbot-ia-n8n-customer-success): n8n, Google Sheets e IA
-- [Ensemble](https://github.com/ymedeiros228/ensemble): app de organização para estudantes
-- [Portfolio Universe](https://github.com/ymedeiros228/portfolio-universo-yuri): meu portfólio em Three.js
-- Contribuição open source: [PR #45 no Nothe](https://github.com/7Cass/nothe/pull/45)
-
-</details>
-
-<br/>
-
-## Ferramentas
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,prisma,postgres,supabase,docker,electron,python,flutter,githubactions,linux&theme=dark" alt="TypeScript, React, Next.js, Node.js, NestJS, Prisma, PostgreSQL, Supabase, Docker, Electron, Python, Flutter, GitHub Actions, Linux" />
+<a href="https://www.linkedin.com/in/yuri-medeiros-1071533b4/"><img src="assets/v2/btn-linkedin.png" height="40" alt="LinkedIn" /></a>&nbsp;
+<a href="https://portfolio-universo-yuri.vercel.app"><img src="assets/v2/btn-portfolio.png" height="40" alt="Portfólio" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/yuri-medeiros-1071533b4/"><img src="assets/v2/btn-contato.png" height="40" alt="Contato" /></a>
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg" />
-  <img src="profile-3d-contrib/profile-green.svg" width="100%" alt="Contribuições em 3D" />
-</picture>
+<a href="https://github.com/ymedeiros228/sigaps"><img src="assets/v2/card-sigaps.png" width="49%" alt="SIGAPS: mapa das microáreas de saúde de um município, em produção" /></a>
+<a href="https://github.com/ymedeiros228/agronexus"><img src="assets/v2/card-agronexus.png" width="49%" alt="AgroNexus: app de campo para agrônomos que funciona sem internet" /></a>
+<a href="https://github.com/ymedeiros228/mathhub-plataforma"><img src="assets/v2/card-mathhub.png" width="49%" alt="MathHub: plataforma de cursos com áreas de aluno, professor e admin" /></a>
+<img src="assets/v2/card-portal.png" width="49%" alt="Portal Prefeituras: site e portal da transparência para prefeituras pequenas" />
+<a href="https://github.com/ymedeiros228/painel-ubs-planifica"><img src="assets/v2/card-painel.png" width="49%" alt="Painel UBS: app desktop em uso nas Unidades Básicas de Saúde" /></a>
+<img src="assets/v2/card-criador.png" width="49%" alt="Criador de Vídeos: gera vídeos curtos com roteiro, voz e edição automáticos" />
+
+<br/>
+
+<img src="assets/v2/stack.png" width="100%" alt="Stack: TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, Supabase, Docker, Electron, Flutter, Python" />
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ymedeiros228/ymedeiros228/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/ymedeiros228/ymedeiros228/output/github-snake.svg" width="100%" alt="Cobrinha comendo as contribuições" />
+  <img src="https://raw.githubusercontent.com/ymedeiros228/ymedeiros228/output/github-snake.svg" width="100%" alt="Contribuições no GitHub" />
 </picture>
+
+<img src="assets/v2/linha.png" width="100%" alt="" />
